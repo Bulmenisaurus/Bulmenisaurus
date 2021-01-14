@@ -1,9 +1,5 @@
 ![Bulmenisaurus](images/bulmenisaurus-carbon-more.png)
 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bulmenisaurus&show_icons=true&theme=vue-dark&hide=stars)
-
 ## Todo list for GitHub:
 
 - [x] Create a [WEBSITE](https://alexeychub.com)!
@@ -17,7 +13,4 @@
 
 Looks I use some languages a _bit_ more often than others... ;D
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulmenisaurus&exclude-repo=python_projects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<span style="font-family: cursive">Hallo!</span>
+![Bulmenisaurus's github stats](https://github-readme-stats.vercel.app/api?username=Bulmenisaurus&show_icons=true&theme=vue-dark&hide=stars)
